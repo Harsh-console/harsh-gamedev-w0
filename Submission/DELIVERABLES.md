@@ -8,7 +8,7 @@ Submit all of the following:
    - Keyboard controls for the Rubik's Cube
    - Any known issues
 4. The demo.md will contain a small clip of your task.
-5. The details.txt will contain your details as specified in the given format.
+5. Add your details in User.sh
 
 ---
 
@@ -26,9 +26,9 @@ To submit your tasks, follow these exact steps:
    ```bash
    git checkout -b <roll>-<Branch code>
    ```
-4. Build your Unity project inside this directory.
+4. Build your Unity project inside Submission directory.
    > **Tip:** Ensure your project folder includes a standard Unity `.gitignore` file so you do not accidentally commit heavy temporary files like the `Library/` directory.
-5. Commit your progress to your branch  
+5. Commit your progress to your branch
    (frequent commits are encouraged but optional):
    ```bash
    git add .
