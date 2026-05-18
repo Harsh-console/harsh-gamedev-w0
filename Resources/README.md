@@ -22,7 +22,3 @@
 - **Commit often.** Small, frequent commits mean you can roll back when something breaks.
 - **It doesn't have to be perfect.** A cube where 5 faces rotate correctly is better than no cube. Ship what you have.
 - **Ask for help early.** If you're stuck for more than 30 minutes on the same problem, reach out.
-
----
-
-_Good luck — and have fun!_
